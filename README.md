@@ -7,9 +7,10 @@ This project analyses C. difficile Standardized Infection Ratios (SIR) across US
 Where in the US would I want to be hospitalized if I wanted the lowest risk of C. difficile infection?
 
 ## Files
-- `analysis.py` – Python code used for the analysis
-- `report.pdf` – final project report
-- `plot1.png`, `plot2.png`, `plot3.png` – figures produced by the code
+- Final project.py – Python code used for the analysis
+- MAT2007__project_pt_2 (2).pdf - written report
+- MAT2007__project_pt_2.zip - latex version of report
+- plot1.png, plot2.png, plot3.png – figures produced by the code
 
 ## Dataset
 The dataset used is the CMS Healthcare Associated Infections - Hospital dataset:
